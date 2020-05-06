@@ -1,2 +1,6 @@
 # hello-world
 My first project
+About me ...
+I am a student after completing software engineering
+
+I enjoy getting started with this special thing.....
